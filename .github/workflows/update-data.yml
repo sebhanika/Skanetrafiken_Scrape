@@ -1,4 +1,4 @@
-name: Update SKanetrafiken Warnings
+name: Update Skanetrafiken Warnings
 on:
   schedule:
     - cron: '0 * * * *'
