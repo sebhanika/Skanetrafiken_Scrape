@@ -27,4 +27,4 @@ jobs:
           git config --local user.name "GitHub Actions"
           git add disruptions.csv
           git commit -m "Updated data with GitHub Actions"
-          git push origin master
+          git push origin main
